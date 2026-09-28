@@ -1,10 +1,10 @@
 ---
 name: iso-24495
-description: "Use when text must be easy for its intended reader to find, understand, and act on — reports, emails, documentation, UI text, announcements, explanations, AI output that reads as dense or bureaucratic. Applies ISO 24495-1 plain language principles with dedicated technique layers for English and Traditional Chinese. Triggers: plain language rewrite, apply ISO 24495, make this clearer for readers, de-jargon this, 淺白改寫, 白話改寫, 去公文腔, 讓讀者一次看懂. Not for creative or literary writing."
+description: "Use when text must be easy for its intended reader to find, understand, and act on — reports, emails, documentation, UI text, announcements, explanations, AI output that reads as dense or bureaucratic. Applies ISO 24495-1 plain language principles with dedicated technique layers for English and Simplified Chinese. Triggers: plain language rewrite, apply ISO 24495, make this clearer for readers, de-jargon this, 大白话改写, 白话改写, 去公文腔, 让读者一次看懂. Not for creative or literary writing."
 version: 0.1.0
 ---
 
-# ISO 24495-1 Plain Language (English + Traditional Chinese)
+# ISO 24495-1 Plain Language (English + Simplified Chinese)
 
 ISO 24495-1:2023 is the international standard for plain language. It defines
 plain language by reader outcome, not by word lists: a document is plain when
@@ -17,11 +17,11 @@ written languages" — so this skill ships one shared principle layer and two
 language technique layers:
 
 - **English** → apply `references/english-techniques.md`
-- **Traditional Chinese（繁體中文）** → apply `references/chinese-techniques.md`
+- **Simplified Chinese（简体中文）** → apply `references/chinese-techniques.md`
 
 The Chinese layer is not a translation of the English layer. It is a separate
-technique set for problems Chinese text actually has (歐化長句、公文腔、
-成語堆疊、中英夾雜、被字句濫用). As of this skill's release, no national
+technique set for problems Chinese text actually has (欧化长句、公文腔、
+成语堆叠、中英夹杂、被字句滥用). As of this skill's release, no national
 standards body has published a Chinese adaptation of ISO 24495-1; this layer
 is an original implementation of the principles for Chinese.
 
