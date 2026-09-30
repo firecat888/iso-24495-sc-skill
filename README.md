@@ -1,6 +1,11 @@
 # ISO 24495 Skill — Plain Language for English and Simplified Chinese
 
-A Claude Code skill that rewrites text into plain language per
+Note: This skill is ported from https://github.com/danyuchn/iso‑24495‑skill, with only Traditional Chinese converted to Simplified Chinese. 
+
+
+---
+
+An agent skill that rewrites text into plain language per
 [ISO 24495-1:2023](https://www.iso.org/standard/78907.html) — the
 international standard that defines plain language by reader outcome: the
 intended readers can **find** what they need, **understand** it on first
