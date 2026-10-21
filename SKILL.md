@@ -1,6 +1,6 @@
 ---
-name: iso-24495
-description: "Use when text must be easy for its intended reader to find, understand, and act on — reports, emails, documentation, UI text, announcements, explanations, AI output that reads as dense or bureaucratic. Applies ISO 24495-1 plain language principles with dedicated technique layers for English and Simplified Chinese. Triggers: plain language rewrite, apply ISO 24495, make this clearer for readers, de-jargon this, 大白话改写, 白话改写, 去公文腔, 让读者一次看懂. Not for creative or literary writing."
+name: plain-language-rewrite-text
+description: "Rewrite existing text into plain language per ISO 24495-1 (English and Simplified Chinese). Use when the user asks to simplify, de-jargon, or de-bureaucratize a text — 大白话改写, 白话改写, 去公文腔, 让读者一次看懂, plain language rewrite, make this clearer. Not for writing new content, and not for creative or literary writing."
 version: 0.1.0
 ---
 

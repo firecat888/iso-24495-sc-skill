@@ -70,7 +70,7 @@ Adding another language = adding one technique file. Contributions welcome.
 ## Installation
 
 ```bash
-git clone https://github.com/danyuchn/iso-24495-skill ~/.claude/skills/iso-24495
+git clone https://github.com/firecat888/iso-24495-sc-skill ~/.claude/skills/plain-language-rewrite-text
 ```
 
 ## Usage
